@@ -25,4 +25,11 @@ Things you may want to cover:
 
 
 Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+<tt>rake doc:app</tt>
+
+#Ruby on Rails tutorial: sample application
+
+This is the sample application for the
+[*Ruby on Rails Tutorial*] (http://www.railstutorial.org/)
+by [Michael Hartl] (http://www.michaelhartl.com/).
+.
